@@ -1,0 +1,27 @@
+const dummySunriseSunsetXML = '''
+<result>
+<version>2.1</version>
+<date>
+<year>2020</year>
+<month>9</month>
+<day>26</day>
+</date>
+<location>
+<coordinate>
+<lat>35.7275983</lat>
+<lng>139.7331783</lng>
+</coordinate>
+</location>
+<rise_and_set>
+<sunrise>5.532</sunrise>
+<sunset>17.536</sunset>
+<sunrise_hm>5:31</sunrise_hm>
+<sunset_hm>17:32</sunset_hm>
+<moonrise>14.716</moonrise>
+<moonset>-1.0</moonset>
+<moonrise_hm>14:43</moonrise_hm>
+<moonset_hm>--:--</moonset_hm>
+</rise_and_set>
+<moon_age>8.55</moon_age>
+</result>
+''';
